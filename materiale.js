@@ -1,1 +1,1 @@
-alert("Sai di cosa parlo😜")
+<script>alert("Sai di cosa parlo😜")</script>
